@@ -29,14 +29,14 @@ body {
   border-radius: 9px;
 }
 
-.container_time_slot div {
+/* .container_time_slot div {
   width: 80%;
   height: 10%;
   background-color: white;
   margin: 4px;
   color: blue;
   display: inline-block;
-}
+} */
 
 .container_time_slot div h1 {
   text-align: center;

@@ -1,27 +1,27 @@
 {
   "time_table": {
     "monday": {
-      "8.00AM-9.00AM": "MA225",
-      "9.00AM-10.00AM": "MA221",
-      "10.00-11.00AM": "CS221",
-      "11.00AM-12.00AM": "MA201",
-      "12.00AM-1.00PM": "MA222",
+      "8.00AM-9.00AM": "MA225(probability,Venue:(lec_hall-4)",
+      "9.00AM-10.00AM": "MA221(Descrete_Mathematics,Venue:(1G1)",
+      "10.00-11.00AM": "CS221(Digital_Design,Venue:(lec_hall-4)",
+      "11.00AM-12.00AM": "MA201(Complex_Analysis,Venue:(lec_hall-1)",
+      "12.00AM-1.00PM": "MA222(Elementary_Number_theory,Venue:(lec_hall-4)",
       "1.00PM-2.00PM": "FREE",
-      "3.00PM-5.00PM": "MA251"
+      "3.00PM-5.00PM": "MA251(Data_Structures,Venue:(1G1)"
     },
     "tuesday": {
       "8.00AM-9.00AM": "FREE",
-      "9.00AM-10.00AM": "MA221",
-      "10.00-11.00AM": "MA225",
-      "11.00AM-12.00AM": "MA201",
-      "12.00AM-1.00PM": "MA222",
+      "9.00AM-10.00AM": "MA221(Descrete_Mathematics,Venue:(1G1)",
+      "10.00-11.00AM": "MA225(probability,Venue:(lec_hall-4)",
+      "11.00AM-12.00AM": "MA201(Complex_Analysis,Venue:(lec_hall-1)",
+      "12.00AM-1.00PM": "MA222(Elementary_Number_theory,Venue:(lec_hall-4)",
       "1.00PM-2.00PM": "FREE",
       "2.00PM-4.00PM": "MA251(LAB)"
     },
     "wednesday": {
       "8.00AM-9.00AM": "FREE",
-      "9.00AM-10.00AM": "MA221",
-      "10.00-11.00AM": "MA225",
+      "9.00AM-10.00AM": "MA221(Descrete_Mathematics,Venue:(1G1)",
+      "10.00-11.00AM": "MA225(probability,Venue:(lec_hall-4)",
       "11.00AM-12.00AM": "FREE",
       "12.00AM-1.00PM": "FREE",
       "1.00PM-2.00PM": "FREE",
@@ -29,18 +29,18 @@
     },
     "thursday": {
       "8.00AM-9.00AM": "FREE",
-      "9.00AM-10.00AM": "CS221",
-      "10.00-11.00AM": "MA225",
+      "9.00AM-10.00AM": "CS221(Digital_Design,Venue:(lec_hall-4)",
+      "10.00-11.00AM": "MA225(probability,Venue:(lec_hall-4)",
       "11.00AM-12.00AM": "FREE",
       "12.00AM-1.00PM": "FREE",
       "1.00PM-2.00PM": "FREE",
       "3.00PM-5.00PM": "FREE"
     },
     "friday": {
-      "8.00AM-9.00AM": "MA201(TUTORIAL)",
-      "9.00AM-10.00AM": "CS221",
-      "10.00-11.00AM": "MA201",
-      "11.00AM-12.00AM": "MA222",
+      "8.00AM-9.00AM": "MA201(Complex_Analysis,Venue:(lec_hall-1)(TUTORIAL)",
+      "9.00AM-10.00AM": "CS221(Digital_Design,Venue:(lec_hall-4)",
+      "10.00-11.00AM": "MA201(Complex_Analysis,Venue:(lec_hall-1)",
+      "11.00AM-12.00AM": "MA222(Elementary_Number_theory,Venue:(lec_hall-4)",
       "12.00AM-1.00PM": "FREE",
       "1.00PM-2.00PM": "FREE",
       "3.00PM-5.00PM": "FREE"
