@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(110, 176, 234);
+}
+.container {
+  width: 50%;
+  margin: auto;
+}
+
+.container input {
+  text-align: center;
+  width: 70%;
+  height: 30px;
+  border: 2px solid green;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.container_time_slot {
+  width: 100%;
+  height: 200vh;
+  background-color: black;
+  margin-top: 20px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 9px;
+}
+
+.container_time_slot div {
+  width: 80%;
+  height: 10%;
+  background-color: white;
+  margin: 4px;
+  color: blue;
+  display: inline-block;
+}
+
+.container_time_slot div h1 {
+  text-align: center;
+  color: Black;
+}
+
+.container_time_slot div h3 {
+  text-align: center;
+  color: rgb(241, 159, 7);
+}
+button {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: orange;
+  background-color: black;
+  border-radius: 10px;
+  width: 20%;
+  height: 40px;
+}
