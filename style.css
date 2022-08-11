@@ -56,3 +56,10 @@ button {
   width: 20%;
   height: 40px;
 }
+
+@media screen and (max-width: 500px) {
+  .container {
+    width: 100%;
+    margin: auto;
+  }
+}
