@@ -19,7 +19,7 @@ button.addEventListener("click", function (e) {
         console.log(myObj);
         // console.log(myObj.time_table.monday["11.00AM-12.00AM"]);
         // console.log(input_value);
-        if (input_value == "monday") {
+        if (input_value.includes("monday")) {
           // console.log(myObj.time_table.monday["11.00AM-12.00AM"]);
           let final = "";
           for (let key in myObj.time_table.monday) {
@@ -31,7 +31,7 @@ button.addEventListener("click", function (e) {
             final += container_temp;
           }
           container_push.innerHTML = final;
-        } else if (input_value == "tuesday") {
+        } else if (input_value.includes("tuesday")) {
           console.log(myObj.time_table.tuesday["11.00AM-12.00AM"]);
           let final = " ";
           for (let key in myObj.time_table.tuesday) {
@@ -43,7 +43,7 @@ button.addEventListener("click", function (e) {
             final += container_temp;
           }
           container_push.innerHTML = final;
-        } else if (input_value == "wednesday") {
+        } else if (input_value.includes("wednesday")) {
           let final = " ";
           console.log(myObj.time_table.wednesday["11.00AM-12.00AM"]);
           for (let key in myObj.time_table.wednesday) {
@@ -55,7 +55,7 @@ button.addEventListener("click", function (e) {
             final += container_temp;
           }
           container_push.innerHTML = final;
-        } else if (input_value == "thursday") {
+        } else if (input_value.includes("thursday")) {
           let final = "";
           console.log(myObj.time_table.thursday["11.00AM-12.00AM"]);
           for (let key in myObj.time_table.thursday) {
@@ -67,7 +67,7 @@ button.addEventListener("click", function (e) {
             final += container_temp;
           }
           container_push.innerHTML = final;
-        } else if (input_value == "friday") {
+        } else if (input_value.includes("friday")) {
           let final = "";
           console.log(myObj.time_table.friday["11.00AM-12.00AM"]);
           for (let key in myObj.time_table.friday) {
