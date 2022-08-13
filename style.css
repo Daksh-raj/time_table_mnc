@@ -1,9 +1,7 @@
-body {
-  background-color: rgb(110, 176, 234);
-}
 .container {
   width: 50%;
   margin: auto;
+  background-color: rgb(18, 230, 230);
 }
 
 .container input {
@@ -17,16 +15,18 @@ body {
 }
 
 .container_time_slot {
-  width: 100%;
-  height: 200vh;
-  background-color: black;
+  margin: auto;
+  width: 50%;
+  min-height: 100vh;
+  background-color: white;
   margin-top: 20px;
-  color: white;
+  color: black;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   border-radius: 9px;
+  background-color: pink;
 }
 
 /* .container_time_slot div {
@@ -37,32 +37,61 @@ body {
   color: blue;
   display: inline-block;
 } */
-
-.container_time_slot div h1 {
-  text-align: center;
-  color: Black;
+/* defining the media queries for the 75% */
+@media screen and (max-width: 700px) {
+  .container {
+    width: 100%;
+    margin: auto;
+    background-color: rgb(44, 231, 44);
+  }
+  .container_time_slot {
+    width: 75%;
+  }
 }
-
-.container_time_slot div h3 {
-  text-align: center;
-  color: rgb(241, 159, 7);
-}
-button {
-  font-family: sans-serif;
-  font-weight: bold;
-  color: orange;
-  background-color: black;
-  border-radius: 10px;
-  width: 20%;
-  height: 40px;
-}
-
 @media screen and (max-width: 500px) {
   .container {
     width: 100%;
     margin: auto;
+    background-color:rgb(90, 189, 232);
+  }
+  .container_time_slot {
+    width: 100%;
   }
 }
-.heading_container{
+.heading_container {
   background-color: red;
+}
+/* Added the card into this */
+.card {
+  margin: 10px 10px;
+  width: 100%;
+}
+.card-body {
+  background-color: black;
+  border-radius: 10px;
+}
+.card-text {
+  color: blue;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.card-title {
+  color: red;
+  text-align: center;
+}
+/* Animation properties */
+/* .animate__heartBeat {
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+} */
+
+.animate__bounce {
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+.animate__pulse {
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
 }
