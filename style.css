@@ -65,20 +65,21 @@
 .card {
   margin: 10px 10px;
   width: 100%;
+
 }
 .card-body {
-  background-color: black;
+  background-color: rgb(244, 98, 220);
   border-radius: 10px;
 }
 .card-text {
-  color: blue;
+   color: black;
   text-align: center;
   font-weight: bold;
   font-size: 20px;
 }
 
 .card-title {
-  color: red;
+  color: rgb(113, 49, 231);
   text-align: center;
 }
 /* Animation properties */
