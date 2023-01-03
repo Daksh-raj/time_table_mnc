@@ -68,18 +68,18 @@
 
 }
 .card-body {
-  background-color: rgb(244, 98, 220);
+  background-color:black;
   border-radius: 10px;
 }
 .card-text {
-   color: black;
+   color: white;
   text-align: center;
   font-weight: bold;
   font-size: 20px;
 }
 
 .card-title {
-  color: rgb(113, 49, 231);
+  color: white;
   text-align: center;
 }
 /* Animation properties */
@@ -88,11 +88,11 @@
   animation-iteration-count: infinite;
 } */
 
-.animate__bounce {
+/* .animate__bounce {
   animation-duration: 1s;
   animation-iteration-count: infinite;
 }
 .animate__pulse {
   animation-duration: 1s;
   animation-iteration-count: infinite;
-}
+} */

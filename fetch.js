@@ -23,7 +23,7 @@ for (let i = 0; i < 5; i++) {
           // console.log(input_value);
           if (input_value.includes("monday")) {
             // console.log(myObj.time_table.monday["11.00AM-12.00AM"]);
-            let final="";
+            let final = "";
             for (let key in myObj.time_table.monday) {
               final += `<div class="card animate__pulse">
               <div class="card-body">
@@ -42,7 +42,7 @@ for (let i = 0; i < 5; i++) {
                   <h5 class="card-title">${key}</h5>
                   <p class="card-text">${myObj.time_table.tuesday[key]}</p>
               </div>
-          </div>`
+          </div>`;
             }
             container_push.innerHTML = final;
           } else if (input_value.includes("wednesday")) {
@@ -54,7 +54,7 @@ for (let i = 0; i < 5; i++) {
                   <h5 class="card-title">${key}</h5>
                   <p class="card-text">${myObj.time_table.wednesday[key]}</p>
               </div>
-          </div>`
+          </div>`;
             }
             container_push.innerHTML = final;
           } else if (input_value.includes("thursday")) {
@@ -66,7 +66,7 @@ for (let i = 0; i < 5; i++) {
                   <h5 class="card-title">${key}</h5>
                   <p class="card-text">${myObj.time_table.thursday[key]}</p>
               </div>
-          </div>`
+          </div>`;
             }
             container_push.innerHTML = final;
           } else if (input_value.includes("friday")) {
@@ -78,7 +78,7 @@ for (let i = 0; i < 5; i++) {
                   <h5 class="card-title">${key}</h5>
                   <p class="card-text">${myObj.time_table.friday[key]}</p>
               </div>
-          </div>`
+          </div>`;
             }
             container_push.innerHTML = final;
           } else {

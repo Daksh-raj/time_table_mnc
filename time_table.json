@@ -1,48 +1,47 @@
 {
   "time_table": {
     "monday": {
-      "8.00AM-9.00AM": "MA225(probability,Venue:(lec_hall-4)",
-      "9.00AM-10.00AM": "MA221(Descrete_Mathematics,Venue:(1G1)",
-      "10.00-11.00AM": "CS221(Digital_Design,Venue:(lec_hall-4)",
-      "11.00AM-12.00AM": "MA201(Complex_Analysis,Venue:(lec_hall-1)",
-      "12.00AM-1.00PM": "MA222(Elementary_Number_theory,Venue:(lec_hall-4)",
-      "1.00PM-2.00PM": "FREE",
-      "3.00PM-5.00PM": "MA251(Data_Structures,Venue:(1G1)"
+      "8.00AM-8.55AM": "FREE",
+      "9.00AM-9.55AM": "MA224(Real Analysis,Venue:(5102)",
+      "10.00-10.55AM": "MA252(Algorithms,Venue:(5102)",
+      "11.00AM-11.55AM": "CS245(Database and Management,Venue:(5G4)",
+      "12.00AM-12.55PM": "MINOR",
+      "2.00PM-4.55PM": "CS246(Database Lab)"
     },
     "tuesday": {
-      "8.00AM-9.00AM": "FREE",
-      "9.00AM-10.00AM": "MA221(Descrete_Mathematics,Venue:(1G1)",
-      "10.00-11.00AM": "MA225(probability,Venue:(lec_hall-4)",
-      "11.00AM-12.00AM": "MA201(Complex_Analysis,Venue:(lec_hall-1)",
-      "12.00AM-1.00PM": "MA222(Elementary_Number_theory,Venue:(lec_hall-4)",
+      "8.00AM-8.55AM": "MA271(Financical Engineering,Venue:(5102)",
+      "9.00AM-9.55AM": "MA224(Real Analysis,Venue:(5102)",
+      "10.00-10.55AM": "CS223(Computer Architecture,Venue:(5G4)",
+      "11.00AM-11.55AM": "CS245(Database and Management,Venue:(5G4)",
+      "12.00AM-12.55PM": "MINOR",
       "1.00PM-2.00PM": "FREE",
-      "2.00PM-4.00PM": "MA251(LAB)"
+      "2.00PM-4.55PM": "FREE"
     },
     "wednesday": {
       "8.00AM-9.00AM": "FREE",
-      "9.00AM-10.00AM": "MA221(Descrete_Mathematics,Venue:(1G1)",
-      "10.00-11.00AM": "MA225(probability,Venue:(lec_hall-4)",
-      "11.00AM-12.00AM": "FREE",
-      "12.00AM-1.00PM": "FREE",
-      "1.00PM-2.00PM": "FREE",
-      "3.00PM-5.00PM": "FREE"
+      "9.00AM-9.55AM": "MA224(Real Analysis,Venue:(5102)",
+      "10.00-10.55AM": "CS223(Computer Architecture,Venue:(5G4)",
+      "11.00AM-11.55AM": "MA271(Financical Engineering,Venue:(5102)",
+      "12.00AM-12.55PM": "HSS",
+      "1.00PM-1.55PM": "FREE",
+      "2.00PM-4.55PM": "FREE"
     },
     "thursday": {
       "8.00AM-9.00AM": "FREE",
-      "9.00AM-10.00AM": "CS221(Digital_Design,Venue:(lec_hall-4)",
-      "10.00-11.00AM": "MA225(probability,Venue:(lec_hall-4)",
-      "11.00AM-12.00AM": "FREE",
-      "12.00AM-1.00PM": "FREE",
-      "1.00PM-2.00PM": "FREE",
-      "3.00PM-5.00PM": "FREE"
+      "9.00AM-9.55AM": "MA252(Algorithms,Venue:(5102)",
+      "10.00-10.55AM": "CS223(Computer Architecture,Venue:(5G4)",
+      "11.00AM-11.55AM": "MA271(Financical Engineering,Venue:(5102)",
+      "12.00AM-12.55PM": "HSS",
+      "1.00PM-1.55PM": "FREE",
+      "2.00PM-4.55PM": "FREE"
     },
     "friday": {
-      "8.00AM-9.00AM": "MA201(Complex_Analysis,Venue:(lec_hall-1)(TUTORIAL)",
-      "9.00AM-10.00AM": "CS221(Digital_Design,Venue:(lec_hall-4)",
-      "10.00-11.00AM": "MA201(Complex_Analysis,Venue:(lec_hall-1)",
-      "11.00AM-12.00AM": "MA222(Elementary_Number_theory,Venue:(lec_hall-4)",
-      "12.00AM-1.00PM": "FREE",
-      "1.00PM-2.00PM": "FREE",
+      "8.00AM-9.00AM": "FREE",
+      "9.00AM-9.55AM": "MA252(Algorithms,Venue:(5102)",
+      "10.00AM-10.55AM": "CS245(Database and Management,Venue:(5G4)",
+      "11.00AM-11.55AM": "MINOR",
+      "12.00AM-12.55PM": "HSS",
+      "1.00PM-1.55PM": "FREE",
       "3.00PM-5.00PM": "FREE"
     }
   }
