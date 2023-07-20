@@ -2,47 +2,54 @@
   "time_table": {
     "monday": {
       "8.00AM-8.55AM": "FREE",
-      "9.00AM-9.55AM": "MA224(Real Analysis,Venue:(5102)",
-      "10.00-10.55AM": "MA252(Algorithms,Venue:(5102)",
-      "11.00AM-11.55AM": "CS245(Database and Management,Venue:(5G4)",
-      "12.00AM-12.55PM": "MINOR",
-      "2.00PM-4.55PM": "CS246(Database Lab)"
+      "9.00AM-11.55AM": "CS342 (Computer Networks Lab) VENUE(WILL BE NOTIFIED LATER)",
+      "12.00AM-12.55PM": "FREE",
+      "1.00PM-1.55PM": "HSS VENUE(COURSE DEPENDENT)",
+      "2.00PM-2.55PM":"MA321(Optimization) VENUE(5G4)",
+      "3.00PM-3.55PM":"CS343(Operating Systems) VENEU(5G4)",
+      "4.00PM-4.55PM":"CS341(Computer Networks) VENUE(5G4)",
+      "5.00PM-5.55PM":"MA372(Stochastic Calculus For Finance) VENUE(5G4)"
     },
     "tuesday": {
-      "8.00AM-8.55AM": "MA271(Financical Engineering,Venue:(5102)",
-      "9.00AM-9.55AM": "MA224(Real Analysis,Venue:(5102)",
-      "10.00-10.55AM": "CS223(Computer Architecture,Venue:(5G4)",
-      "11.00AM-11.55AM": "CS245(Database and Management,Venue:(5G4)",
-      "12.00AM-12.55PM": "MINOR",
-      "1.00PM-2.00PM": "FREE",
-      "2.00PM-4.55PM": "FREE"
+      "8.00AM-8.55AM": "FREE",
+      "9.00AM-11.55AM": "CS344 (Operating Systems Laboratory) VENUE(WILL BE NOTIFIED LATER)",
+      "12.00AM-12.55PM": "FREE",
+      "1.00PM-1.55PM": "HSS VENUE(COURSE DEPENDENT)",
+      "2.00PM-2.55PM":"CS343(Operating Systems) VENUE(5G4)",
+      "3.00PM-3.55PM":"CS341(Computer Networks) VENUE(5G4)",
+      "4.00PM-4.55PM":"MA372(Stochastic Calculus For Finance) VENUE(5G4)" ,
+      "5.00PM-5.55PM":"MINOR VENUE(COURSE DEPENDENT)"
     },
     "wednesday": {
       "8.00AM-9.00AM": "FREE",
-      "9.00AM-9.55AM": "MA224(Real Analysis,Venue:(5102)",
-      "10.00-10.55AM": "CS223(Computer Architecture,Venue:(5G4)",
-      "11.00AM-11.55AM": "MA271(Financical Engineering,Venue:(5102)",
-      "12.00AM-12.55PM": "HSS",
+      "9.00AM-11.55AM": "FREE",
+      "12.00AM-12.55PM": "FREE",
       "1.00PM-1.55PM": "FREE",
-      "2.00PM-4.55PM": "FREE"
+      "2.00PM-2.55PM":"CS341(Computer Networks) VENUE(5G4)",
+      "3.00PM-3.55PM":"MA372(Stochastic Calculus For Finance) VENUE(5G4)",
+      "4.00PM-4.55PM":"MINOR VENUE(COURSE DEPENDENT)",
+      "5.00PM-5.55PM":"MA321(Optimization) VENUE(5G4)"
     },
     "thursday": {
       "8.00AM-9.00AM": "FREE",
-      "9.00AM-9.55AM": "MA252(Algorithms,Venue:(5102)",
-      "10.00-10.55AM": "CS223(Computer Architecture,Venue:(5G4)",
-      "11.00AM-11.55AM": "MA271(Financical Engineering,Venue:(5102)",
-      "12.00AM-12.55PM": "HSS",
+      "9.00AM-9.55AM": "MA323(Monte Carlo Simulation) TUTORIAL VENUE(WILL BE NOTIFIED LATER)",
+      "10.00-11.55AM": "MA323 LAB(Monte Carlo Simulation) VENUE(WILL BE NOTIFIED LATER)",
+      "12.00AM-12.55PM": "FREE",
       "1.00PM-1.55PM": "FREE",
-      "2.00PM-4.55PM": "FREE"
+      "2.00PM-2.55PM": "MA372(Stochastic Calculus For Finance) VENUE(5G4)",
+      "3.00PM-3.55PM":"MINOR VENUE(COURSE DEPENDENT)",
+      "4.00PM-4.55PM":"MA321(Optimization) VENUE(5G4)",
+      "5.00PM-5.55PM":"CS343(Operating Systems) VENUE(5G4)"
     },
     "friday": {
       "8.00AM-9.00AM": "FREE",
-      "9.00AM-9.55AM": "MA252(Algorithms,Venue:(5102)",
-      "10.00AM-10.55AM": "CS245(Database and Management,Venue:(5G4)",
-      "11.00AM-11.55AM": "MINOR",
-      "12.00AM-12.55PM": "HSS",
+      "9.00AM-11.55AM": "FREE",
+      "12.00AM-12.55PM": "FREE",
       "1.00PM-1.55PM": "FREE",
-      "3.00PM-5.00PM": "FREE"
+      "2.00PM-2.55PM": "HSS VENUE(COURSE DEPENDENT)",
+      "3.00PM-3.55PM":"MA321(Optimization) VENUE(5G4)",
+      "4.00PM-4.55PM":"CS343(Operating Systems) VENUE(5G4)",
+      "5.00PM-5.55PM":"CS341(Computer Networks) VENUE(5G4)"
     }
   }
 }
